@@ -38,3 +38,9 @@ B, C, D = names
 print(B)
 print(C)
 print(D)
+print(b,d,e)
+
+def userName():
+    print("Tor is:" + " " + a + " " + "Yeas old")
+
+userName()
