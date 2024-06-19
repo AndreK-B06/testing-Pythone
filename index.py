@@ -12,10 +12,12 @@ b = int(1 + 3)
 c = float(1 + 3)
 d = 3
 e = "Tor"
+A = 'Tor'
 
 print(a)
 print(b)
 print(c)
+print(A)
 
 print(type(d))
 print(type(e))
