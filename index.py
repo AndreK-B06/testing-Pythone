@@ -21,3 +21,12 @@ print(A)
 
 print(type(d))
 print(type(e))
+
+userFirstName = "Arne"
+print(userFirstName)
+
+X, Y, Z = "Blue", "Read", "Black"
+
+print(X)
+print(Y)
+print(Z)
