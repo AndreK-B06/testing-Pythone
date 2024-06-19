@@ -30,3 +30,11 @@ X, Y, Z = "Blue", "Read", "Black"
 print(X)
 print(Y)
 print(Z)
+
+names = ["Kai", "Andrine", "Per"]
+
+B, C, D = names
+
+print(B)
+print(C)
+print(D)
