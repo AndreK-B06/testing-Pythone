@@ -48,3 +48,7 @@ userName()
 import random
 
 print(random.randrange(1, 100))
+
+user1561FullName = str("John" + "" + "pedersen")
+
+print(user1561FullName[4:7])
