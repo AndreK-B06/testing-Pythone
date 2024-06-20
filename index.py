@@ -52,3 +52,6 @@ print(random.randrange(1, 100))
 user1561FullName = str("John" + "" + "pedersen")
 
 print(user1561FullName[4:7])
+
+text = ("I howe \"you\" hav a nice day")
+print(text)
