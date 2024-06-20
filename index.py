@@ -44,3 +44,7 @@ def userName():
     print("Tor is:" + " " + a + " " + "Yeas old")
 
 userName()
+
+import random
+
+print(random.randrange(1, 100))
