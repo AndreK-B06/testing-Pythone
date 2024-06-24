@@ -78,5 +78,10 @@ shoppingList.append("Orange")
 print(shoppingList)
 shoppingList.extend(shoppingListNextDay)
 print(shoppingList)
+
+for w in shoppingList:
+    print(w)
+
 shoppingList.clear()
 print(shoppingList)
+
