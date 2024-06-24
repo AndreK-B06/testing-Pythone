@@ -69,9 +69,12 @@ else:
     print(no)
     
 # List
-shoppingList = ["Banana", "Pizza", "Apple", "Soda", "Salad", "Burger"] 
+shoppingList = ["Banana", "Pizza", "Apple", "Soda", "Salad", "Burger"]
+shoppingListNextDay = ["Caff", "Tee", "Cake"]
 print(shoppingList)
 print(len(shoppingList))
 print(type(shoppingList))
 shoppingList.append("Orange")
+print(shoppingList)
+shoppingList.extend(shoppingListNextDay)
 print(shoppingList)
