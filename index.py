@@ -73,3 +73,5 @@ shoppingList = ["Banana", "Pizza", "Apple", "Soda", "Salad", "Burger"]
 print(shoppingList)
 print(len(shoppingList))
 print(type(shoppingList))
+shoppingList.append("Orange")
+print(shoppingList)
