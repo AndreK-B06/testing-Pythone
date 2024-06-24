@@ -55,3 +55,14 @@ print(user1561FullName[4:7])
 
 text = ("I howe \"you\" hav a nice day")
 print(text)
+
+age1 = 97
+age2 = 16
+yes = "welcome"
+no = "You are to young"
+
+if age1 > age2:
+    print(yes)
+
+else:
+    print(no)
