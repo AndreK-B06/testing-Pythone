@@ -61,8 +61,15 @@ age2 = 16
 yes = "welcome"
 no = "You are to young"
 
+#  IF ELSE
 if age1 > age2:
     print(yes)
 
 else:
     print(no)
+    
+# List
+shoppingList = ["Banana", "Pizza", "Apple", "Soda", "Salad", "Burger"] 
+print(shoppingList)
+print(len(shoppingList))
+print(type(shoppingList))
