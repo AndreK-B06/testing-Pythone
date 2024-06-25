@@ -8,6 +8,8 @@ if Leah == "Leah er hær":
 else:
     print("Hade Leah")
     
-def jippu(var):
+def hey(var):
     print(var)
     
+
+
