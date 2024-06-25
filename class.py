@@ -7,3 +7,7 @@ if Leah == "Leah er hær":
     
 else:
     print("Hade Leah")
+    
+def jippu(var):
+    print(var)
+    
