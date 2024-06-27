@@ -85,3 +85,8 @@ for w in shoppingList:
 shoppingList.clear()
 print(shoppingList)
 
+# Remove
+
+myFruit ={"apple", "banana", "apple"}
+myFruit.remove("banana")
+
