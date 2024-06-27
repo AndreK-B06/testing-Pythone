@@ -87,6 +87,7 @@ print(shoppingList)
 
 # Remove
 
-myFruit ={"apple", "banana", "apple"}
+myFruit ={"apple", "banana", "orange"}
 myFruit.remove("banana")
+print(myFruit)
 
