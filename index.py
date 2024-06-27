@@ -91,3 +91,8 @@ myFruit ={"apple", "banana", "orange"}
 myFruit.remove("banana")
 print(myFruit)
 
+
+# Loop Items
+
+for f in myFruit:
+    print(f)
