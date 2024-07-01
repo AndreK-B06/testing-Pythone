@@ -96,3 +96,11 @@ print(myFruit)
 
 for f in myFruit:
     print(f)
+    
+# Join Sets
+
+set1 = {"orange", "banana", "apple"}
+set2 = {"Soda", "Salad", "Burger"}
+
+set3 = set1 ^ set2
+print(set3)
