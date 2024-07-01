@@ -107,9 +107,11 @@ print(set3)
 
 # Dictionaries
 
-user1date = {
-    "care": "volvo",
+user1data = {
+    "car": "volvo",
     "first name": "Ola",
     "last name": "norman",
     "birth": 1895
 }
+print(user1data)
+print(user1data["car"])
