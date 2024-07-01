@@ -104,3 +104,12 @@ set2 = {"Soda", "Salad", "Burger"}
 
 set3 = set1 ^ set2
 print(set3)
+
+# Dictionaries
+
+user1date = {
+    "care": "volvo",
+    "first name": "Ola",
+    "last name": "norman",
+    "birth": 1895
+}
